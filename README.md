@@ -36,8 +36,11 @@ The shell parses user input, executes commands, manages processes, and handles s
 
 ## Build & Run 
 Git clone https://github.com/parisseux/42-MINISHELL.git minishell
+
 cd minishell
+
 make 
+
 ./minishell
 
 
