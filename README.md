@@ -58,14 +58,23 @@ $ cat < files.txt
 
 ## Project Structure 
 ├── src/
+
 │   ├── command/
+
 │   ├── execution/
+
 │   ├── parsing/
+
 │   ├── signals/
+
 │   └── main.c
+
 ├── inc/
+
 ├── libft
+
 ├── Makefile
+
 └── README.md
 
 
