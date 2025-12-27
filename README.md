@@ -25,7 +25,7 @@ The shell parses user input, executes commands, manages processes, and handles s
 - Exit status management (`$?`)
 
 
-## Challenges & learsnings
+## Challenges & learnings
 - Parsing and tokenizing complex user input
 - Managing processes using `fork`, `execve`, and `wait`
 - Handling pipes and file descriptors correctly
